@@ -1,0 +1,3 @@
+- ✌️ Privet, I’m @loopnyapy
+- 💿📀 I’m interested in everything. 
+- 🇪🇦 I’m currently learning spanish.
