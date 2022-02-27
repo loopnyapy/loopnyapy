@@ -4,17 +4,15 @@
 - 🇪🇦 Currently learning Spanish.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C117%20hrs%2017%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-80-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
-🌆 Daytime    159 commits    ████████████░░░░░░░░░░░░░   47.75% 
-🌃 Evening    129 commits    █████████░░░░░░░░░░░░░░░░   38.74% 
-🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.81%
+🌞 Morning    19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.64% 
+🌆 Daytime    159 commits    ███████████░░░░░░░░░░░░░░   47.18% 
+🌃 Evening    133 commits    █████████░░░░░░░░░░░░░░░░   39.47% 
+🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.72%
 
 ```
 
@@ -42,7 +40,7 @@ Mac                      8 hrs 5 mins        ███████████�
 ![Chart not found](https://raw.githubusercontent.com/loopnyapy/loopnyapy/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/02/2022 18:05:20 UTC
+ Last Updated on 27/02/2022 22:28:23 UTC
 <!--END_SECTION:waka-->
 
 ![CodersRank statistics](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=loopnyapy)
