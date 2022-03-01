@@ -4,9 +4,7 @@
 - 🇪🇦 Currently learning Spanish.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C118%20hrs%2042%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-104-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-110-blue)
 
 **I'm an Early 🐤** 
 
@@ -38,7 +36,7 @@ Mac                      9 hrs 2 mins        ███████████�
 ```
 
 
- Last Updated on 28/02/2022 00:59:03 UTC
+ Last Updated on 01/03/2022 01:06:14 UTC
 <!--END_SECTION:waka-->
 
 ![CodersRank statistics](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=loopnyapy)
