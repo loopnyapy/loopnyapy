@@ -4,7 +4,7 @@
 - 🇪🇦 Currently learning Spanish.
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **I'm an Early 🐤** 
 
@@ -21,7 +21,7 @@
 
 ```text
 💬 Programming Languages: 
-Dart                     18 hrs 24 mins      ███████████████████████░░   94.16% 
+Dart                     18 hrs 23 mins      ███████████████████████░░   94.16% 
 TypeScript               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   5.18% 
 Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33% 
 YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25% 
@@ -36,7 +36,7 @@ Mac                      19 hrs 32 mins      ███████████�
 ```
 
 
- Last Updated on 03/04/2022 01:11:37 UTC
+ Last Updated on 04/04/2022 01:11:11 UTC
 <!--END_SECTION:waka-->
 
 ![CodersRank statistics](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=loopnyapy)
