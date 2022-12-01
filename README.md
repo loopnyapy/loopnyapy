@@ -1,4 +1,4 @@
-# ✌️ Privet, I'm @loopnyapy
+# ✌️ Hi, I'm @loopnyapy
 
 - 💿📀 Interested in everything.
 - 🇪🇦 Currently learning Spanish.
