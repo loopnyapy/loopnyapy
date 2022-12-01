@@ -43,5 +43,3 @@ Mac                      9 hrs 22 mins       ███████████�
 
  Last Updated on 28/05/2022 01:23:47 UTC
 <!--END_SECTION:waka-->
-
-![CodersRank statistics](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=loopnyapy)
